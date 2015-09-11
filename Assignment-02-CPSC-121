@@ -64,7 +64,7 @@ int main() {
 }
 
 // ----------------------------------------------------------------------------
-/* Finds the max integer from input.txt*/
+/* Finds the max integer from input.txt file */
 
 int find_max(const string& infilename) {
 
@@ -140,7 +140,7 @@ int write_primes(const int size, bool primes[], const string& infilename,
 }
 
 // ----------------------------------------------------------------------------
-/*write primes function*/
+/*Write composites function*/
 
 int write_composites(const int size, bool primes[], const string& infilename,
 	const string& outfilename) {
